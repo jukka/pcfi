@@ -1,0 +1,33 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.adobe.pdf</groupId>
+  <artifactId>pcfi</artifactId>
+  <version>2010.08.09-SNAPSHOT</version>
+
+  <name>PDF Core Font Information</name>
+  <description>
+    Collection of PDF core font information files downloaded from Adobe's
+    Developer Center and elsewhere. This collection contains font metrics
+    for the 14 PDF core fonts, CMaps for the PDF CJK fonts and the Adobe
+    Glyph List. The files are stored inside the com/adobe/pdf/pcfi directory.
+    See the individual files for exact licensing information and
+    META-INF/LICENSE.txt for a summary.
+  </description>
+  <url>http://www.adobe.com/devnet/font/#pcfi</url>
+
+  <licenses>
+    <license>
+      <name>Multiple licenses, see META-INF/LICENSE.txt</name>
+      <url>http://www.adobe.com/devnet/font/#pcfi</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git://github.com/jukka/pcfi.git</connection>
+    <developerConnection>scm:git:git@github.com:jukka/pcfi.git</developerConnection>
+    <url>http://github.com/jukka/pcfi</url>
+  </scm>
+
+</project>

@@ -1,0 +1,110 @@
+=========================
+PDF Core Font Information
+=========================
+
+This package contains PDF font information files downloaded from
+http://www.adobe.com/devnet/font/#pcfi and elsewhere. See the individual
+files and the summary below for related copyright and licensing information.
+
+Any Adobe patents covering information in these files should be included in
+the patent pledge they have made to ISO for the PDF 1.7 standard. Here's what
+Adobe legal wrote when asked about this:
+
+    "Adobe has provided a patent pledge to ISO which states that Adobe will
+    grant a fee and royalty free license to an unrestricted number of
+    applicants on a worldwide, non-discriminatory basis and under other
+    reasonable terms and conditions to make, use, and sell implementations
+    of PDF 1.7 (ISO 32000-1)."
+    (private communication to Jukka Zitting, 2008-12-03)
+
+See also the following page for more information about patents related to PDF:
+http://partners.adobe.com/public/developer/support/topic_legal_notices.html
+
+Font Metrics for PDF Core 14 Fonts
+----------------------------------
+
+The files in com/adobe/pdf/pcfi/afm were downloaded from
+http://www.adobe.com/devnet/font/pdfs/Core14_AFMs.zip on 2009-06-14.
+
+The MustRead.html file contains the following license:
+
+    This file and the 14 PostScript(R) AFM files it accompanies may
+    be used, copied, and distributed for any purpose and without charge,
+    with or without modification, provided that all copyright notices
+    are retained; that the AFM files are not distributed without this
+    file; that all modifications to this file or any of the AFM files
+    are prominently noted in the modified file(s); and that this
+    paragraph is not modified. Adobe Systems has no responsibility
+    or obligation to support the use of the AFM files.
+
+The individual AFM files contain further copyright notices. The aggregate
+of these notices is:
+
+    Copyright (c) 1985, 1987, 1988, 1989, 1990, 1991, 1992, 1993,
+    1997 Adobe Systems Incorporated. All Rights Reserved.
+    Helvetica and Times are trademarks of Linotype-Hell AG and/or
+    its subsidiaries. ITC Zapf Dingbats is a registered trademark
+    of International Typeface Corporation.
+
+CMaps for PDF CJK Fonts
+-----------------------
+
+The CMap files in com/adobe/pdf/pcfi/*/ were downloaded from
+http://www.adobe.com/devnet/font/pdfs/ and elsewhere.
+
+All the individual CMap files in these directories contain copyright
+sections with a license for redistribution. The aggregate of this
+information is:
+
+    Copyright 1990-2007 Adobe Systems Incorporated.
+    All Rights Reserved.
+
+    Patents Pending
+
+    NOTICE: All information contained herein is the property
+    of Adobe Systems Incorporated.
+
+    Permission is granted for redistribution of this file
+    provided this copyright notice is maintained intact and
+    that the contents of this file are not altered in any
+    way from its original form.
+
+    PostScript and Display PostScript are trademarks of
+    Adobe Systems Incorporated which may be registered in
+    certain jurisdictions.
+Adobe Glyph List
+----------------
+
+The glyph list in com/adobe/pdf/pcfi/glyphlist.txt was downloaded from
+http://www.adobe.com/devnet/opentype/archives/glyphlist.txt on 2010-08-06.
+
+    Copyright (c) 1997,1998,2002,2007 Adobe Systems Incorporated
+ 
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this documentation file to use, copy, publish, distribute,
+    sublicense, and/or sell copies of the documentation, and to permit
+    others to do the same, provided that:
+    - No modification, editing or other alteration of this document is
+    allowed; and
+    - The above copyright notice and this permission notice shall be
+    included in all copies of the documentation.
+ 
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this documentation file, to create their own derivative works
+    from the content of this document to use, copy, publish, distribute,
+    sublicense, and/or sell the derivative works, and to permit others to do
+    the same, provided that the derived work is not represented as being a
+    copy or version of this document.
+ 
+    Adobe shall not be liable to any party for any loss of revenue or profit
+    or for indirect, incidental, special, consequential, or other similar
+    damages, whether based on tort (including without limitation negligence
+    or strict liability), contract or other legal or equitable grounds even
+    if Adobe has been advised or had reason to know of the possibility of
+    such damages. The Adobe materials are provided on an "AS IS" basis.
+    Adobe specifically disclaims all express, statutory, or implied
+    warranties relating to the Adobe materials, including but not limited to
+    those concerning merchantability or fitness for a particular purpose or
+    non-infringement of any third party rights regarding the Adobe
+    materials.
+
