@@ -30,4 +30,21 @@
     <url>http://github.com/jukka/pcfi</url>
   </scm>
 
+  <developers>
+    <developer>
+      <organization>Adobe</organization>
+      <organizationUrl>http://www.adobe.com/</organizationUrl>
+      <roles>
+        <role>IP owner, original publisher</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Jukka Zitting</name>
+      <email>jukka.zitting@gmail.com</email>
+      <roles>
+        <role>packaging and upload to Maven Central</role>
+      </roles>
+    </developer>
+  </developers>
+
 </project>
